@@ -1,0 +1,5 @@
+O uso de contextos resolve o problema de Props drilling,
+o props drilling ocorre quando um componente recebe uma props
+mesmo que ele não use.Desse modo o uso de contexto resolve isso
+pelo fato de que a propriedade que está no contexto só será utilizada
+por quem está querendo consumi-lá.

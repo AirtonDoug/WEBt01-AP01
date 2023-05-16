@@ -1,0 +1,7 @@
+1-Questa nota merecida: 0 não consegui fazer nada do que foi pedido tentei implementar
+um retorno das médias mas sem sucesso.
+2-Questao nota merecida:2 pelo fato de ter conseguido fazer o que foi pedido perdi meio ponto
+talvez pelos comentários muito rasos no mais consegui fazer o que foi pedido.
+3-Questao nota merecida: 1,5 pelos muitos erros cometidos nela acho que foi a nota merecida 
+ainda tive muitas dificuldades na parte das promessas e fiz uma promessa que caia sempre no reject
+tive que apagar o reject. 
